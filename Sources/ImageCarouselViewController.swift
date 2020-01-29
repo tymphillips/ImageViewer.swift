@@ -113,7 +113,7 @@ public class ImageCarouselViewController:UIPageViewController {
         super.viewDidLoad()
         
         addBackgroundView()
-        addNavBar()
+        //addNavBar()
         applyOptions()
         
         view.backgroundColor = .clear
